@@ -1,5 +1,7 @@
 # Notes:
 First node program
+
+```
 Options:
       --help     Show help                                             [boolean]
       --version  Show version number                                   [boolean]
@@ -8,3 +10,5 @@ Options:
   -l, --list     Whether to print or not the base's multiplication table
                                            [boolean] [required] [default: false]
   -u, --until    Number until the base will be multiplied    [number] [required]
+  
+```
